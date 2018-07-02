@@ -28,3 +28,7 @@
 packages/
 
 \.vs/
+
+Umbraco\.Status\.Api/bin/
+
+Umbraco\.Status\.Api/obj/
